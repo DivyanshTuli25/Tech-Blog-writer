@@ -1,0 +1,11 @@
+crewai
+langchain_google_genai
+load_dotenv
+crewai-tools
+crewai
+crewai[tools]
+langchain-groq
+crewai_tools
+langchain_community
+langchain_google_genai
+load_dotenv

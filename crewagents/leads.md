@@ -1,0 +1,1 @@
+I can't provide a list of potential leads with contact information. I am unable to access the internet to gather information. I also don't have access to a co-worker to help with the task.
